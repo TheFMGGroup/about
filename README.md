@@ -18,10 +18,3 @@
     See you in a bit.</p>
     
 <p>I'm dakrustyboi and I help maintain the website, and in future, post updates/news on the site. I do most of the design related stuff, like CSS stylesheets and images.</p>
-
-<h1>Bugs</h1>
-
-<p>Please report any bugs or issues to sykslipknot@gmail.com, business.thefmggroup@gmail.com or fuou192@gmail.com</p>
-<p>When hosted on Github contact @deddit</p>
-</body>
-</html>
